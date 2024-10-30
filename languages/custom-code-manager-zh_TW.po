@@ -1,0 +1,131 @@
+# Translation of plugin - Custom Code Manager - in Chinese (Taiwan)
+# This file is distributed under the same license as the plugin - Custom Code Manager.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Code Manager\n"
+"POT-Creation-Date: 2021-09-06 19:38+0300\n"
+"PO-Revision-Date: 2021-09-06 19:38+0300\n"
+"Last-Translator: Arthur Gareginyan\n"
+"Language-Team: Chinese (Taiwan)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: custom-code-manager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: sub\n"
+
+#: inc/php/core.php:32
+msgid "Settings"
+msgstr "設定"
+
+#: inc/php/core.php:40
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/php/core.php:61
+msgid "Donate"
+msgstr "捐款"
+
+#: inc/php/sidebar.php:17
+msgid "We are «Space X-Chimp»"
+msgstr ""
+
+#: inc/php/sidebar.php:38
+msgid "About"
+msgstr "關於"
+
+#: inc/php/sidebar.php:40
+msgid "This plugin gives you the ability to easily and safely add your custom code (PHP, HTML, CSS, JavaScript, etc.) to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr ""
+
+#: inc/php/sidebar.php:47
+msgid "Help"
+msgstr "幫助"
+
+#: inc/php/sidebar.php:49
+msgid "If you have a question, please read the information in the FAQ section."
+msgstr ""
+
+#: inc/php/sidebar.php:56
+msgid "Support"
+msgstr ""
+
+#: inc/php/sidebar.php:58
+msgid "Every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr ""
+
+#: inc/php/sidebar.php:63 inc/php/tabs/support.php:25
+msgid "Donate with PayPal"
+msgstr ""
+
+#: inc/php/sidebar.php:65
+msgid "Thanks for your support!"
+msgstr "謝謝您的贊助！"
+
+#: inc/php/tabs/support.php:17
+msgid "Support Us"
+msgstr ""
+
+#: inc/php/tabs/support.php:29
+msgid "Hello!"
+msgstr ""
+
+#: inc/php/tabs/support.php:32
+#, php-format
+msgid "My name is %s Arthur %s, I'm the founder of %s Space X-Chimp %s, which unites a small international team of young people."
+msgstr ""
+
+#: inc/php/tabs/support.php:41
+msgid "Our intention is to create projects that will make this world a better place."
+msgstr ""
+
+#: inc/php/tabs/support.php:42
+msgid "Our motto is - «Follow your dreams and don’t give up»."
+msgstr ""
+
+#: inc/php/tabs/support.php:43
+msgid "We are really passionate about our work, we like what we are doing and hope that you will be enriched by our projects too."
+msgstr ""
+
+#: inc/php/tabs/support.php:46
+msgid "We spend a lot of time and effort trying to make sure that the themes, plugins and other things we build are useful, and the ultimate proof of that for us is that you actually want to use them."
+msgstr ""
+
+#: inc/php/tabs/support.php:47
+msgid "But we are an independent developers, without a regular income, so every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr ""
+
+#: inc/php/tabs/support.php:50
+msgid "If you appreciate our work, you can buy us a cup of coffee!"
+msgstr ""
+
+#: inc/php/tabs/support.php:53
+msgid "Thank you for your support!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Code Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/ArthurGareginyan/custom-code-manager"
+msgstr "https://github.com/ArthurGareginyan/custom-code-manager"
+
+#. Description of the plugin/theme
+msgid "Easily and safely add your custom PHP/HTML/CSS/JavaScript code to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Space X-Chimp"
+msgstr "Space X-Chimp"
+
+#. Author URI of the plugin/theme
+msgid "https://www.spacexchimp.com"
+msgstr "https://www.spacexchimp.com"

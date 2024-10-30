@@ -1,0 +1,134 @@
+# Translation of plugin - Custom Code Manager - in Spanish (Spain)
+# This file is distributed under the same license as the plugin - Custom Code Manager.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Code Manager\n"
+"POT-Creation-Date: 2021-09-06 19:38+0300\n"
+"PO-Revision-Date: 2021-09-06 19:38+0300\n"
+"Last-Translator: Arthur Gareginyan\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: custom-code-manager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: sub\n"
+
+#: inc/php/core.php:32
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/php/core.php:40
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/php/core.php:61
+msgid "Donate"
+msgstr "Donar"
+
+#: inc/php/sidebar.php:17
+msgid "We are «Space X-Chimp»"
+msgstr ""
+
+#: inc/php/sidebar.php:38
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/php/sidebar.php:40
+msgid "This plugin gives you the ability to easily and safely add your custom code (PHP, HTML, CSS, JavaScript, etc.) to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr "Este complemento le brinda la posibilidad de agregar de forma fácil y segura sus código personalizado (PHP, HTML, CSS, JavaScript, etc.) a su sitio web de WordPress, directamente fuera del área de administración de WordPress, sin la necesidad de tener un editor externo."
+
+#: inc/php/sidebar.php:47
+msgid "Help"
+msgstr "Ayuda"
+
+#: inc/php/sidebar.php:49
+msgid "If you have a question, please read the information in the FAQ section."
+msgstr "Si tiene alguna pregunta, lee la información en la sección de preguntas frecuentes."
+
+#: inc/php/sidebar.php:56
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/php/sidebar.php:58
+msgid "Every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "Soy un desarrollador independiente, sin un ingreso regular, por lo que cada pequeña contribución ayuda a cubrir mis costos y me deja pasar más tiempo construyendo cosas para que personas como tú las disfruten."
+
+#: inc/php/sidebar.php:63 inc/php/tabs/support.php:25
+msgid "Donate with PayPal"
+msgstr "Donar con PayPal"
+
+#: inc/php/sidebar.php:65
+msgid "Thanks for your support!"
+msgstr "¡Gracias por tu apoyo!"
+
+#: inc/php/tabs/support.php:17
+msgid "Support Us"
+msgstr ""
+
+#: inc/php/tabs/support.php:29
+msgid "Hello!"
+msgstr ""
+
+#: inc/php/tabs/support.php:32
+#, php-format
+msgid "My name is %s Arthur %s, I'm the founder of %s Space X-Chimp %s, which unites a small international team of young people."
+msgstr "Mi nombre es %s Arthur %s y soy el fundador de %s Space X-Chimp %s, which unites a small international team of young people."
+
+#: inc/php/tabs/support.php:41
+msgid "Our intention is to create projects that will make this world a better place."
+msgstr "Nuestra intención es crear proyectos que hagan de este mundo un lugar mejor."
+
+#: inc/php/tabs/support.php:42
+msgid "Our motto is - «Follow your dreams and don’t give up»."
+msgstr ""
+
+#: inc/php/tabs/support.php:43
+msgid "We are really passionate about our work, we like what we are doing and hope that you will be enriched by our projects too."
+msgstr "Nos realmente apasionado por nuestro trabajo, nos gusta lo que estamos haciendo y esperamos que tú también te enriquezcas con nos proyectos."
+
+#: inc/php/tabs/support.php:46
+msgid "We spend a lot of time and effort trying to make sure that the themes, plugins and other things we build are useful, and the ultimate proof of that for us is that you actually want to use them."
+msgstr "Gastamos mucho tiempo y esfuerzo tratando de asegurarme que los temas, complementos y otras cosas que construyamos sean útiles, y la prueba definitiva para nosotros de que son útiles, es que realmente desea utilizarlos."
+
+#: inc/php/tabs/support.php:47
+msgid "But we are an independent developers, without a regular income, so every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "Pero, somos desarrolladores independientes, sin un ingreso regular, por lo que cada pequeña contribución nos ayuda a cubrir nuestros costos y nos permite dedicar más tiempo a construir cosas para que las personas como usted las disfruten."
+
+#: inc/php/tabs/support.php:50
+msgid "If you appreciate our work, you can buy us a cup of coffee!"
+msgstr "Si aprecias mi trabajo, puedes comprarme un café!"
+
+#: inc/php/tabs/support.php:53
+msgid "Thank you for your support!"
+msgstr "¡Gracias por tu apoyo!"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Code Manager"
+msgstr "Custom Code Manager"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/ArthurGareginyan/custom-code-manager"
+msgstr "https://github.com/ArthurGareginyan/custom-code-manager"
+
+#. Description of the plugin/theme
+msgid "Easily and safely add your custom PHP/HTML/CSS/JavaScript code to your WordPress website, directly out of the WordPress Admin Area, without the need to have an external editor."
+msgstr "Agregue de forma fácil y segura sus código PHP/HTML/CSS/JavaScript personalizado a su sitio web de WordPress, directamente fuera del área de administración de WordPress, sin la necesidad de tener un editor externo."
+
+#. Author of the plugin/theme
+msgid "Space X-Chimp"
+msgstr "Space X-Chimp"
+
+#. Author URI of the plugin/theme
+msgid "https://www.spacexchimp.com"
+msgstr "https://www.spacexchimp.com"
+
+#~ msgid "Code"
+#~ msgstr "Código"
